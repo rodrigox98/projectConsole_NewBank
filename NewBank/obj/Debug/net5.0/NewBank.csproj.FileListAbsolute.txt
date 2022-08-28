@@ -1,0 +1,16 @@
+D:\ProjetosNET\NewBank\NewBank\bin\Debug\net5.0\NewBank.exe
+D:\ProjetosNET\NewBank\NewBank\bin\Debug\net5.0\NewBank.deps.json
+D:\ProjetosNET\NewBank\NewBank\bin\Debug\net5.0\NewBank.runtimeconfig.json
+D:\ProjetosNET\NewBank\NewBank\bin\Debug\net5.0\NewBank.runtimeconfig.dev.json
+D:\ProjetosNET\NewBank\NewBank\bin\Debug\net5.0\NewBank.dll
+D:\ProjetosNET\NewBank\NewBank\bin\Debug\net5.0\NewBank.pdb
+D:\ProjetosNET\NewBank\NewBank\obj\Debug\net5.0\NewBank.csproj.AssemblyReference.cache
+D:\ProjetosNET\NewBank\NewBank\obj\Debug\net5.0\NewBank.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjetosNET\NewBank\NewBank\obj\Debug\net5.0\NewBank.AssemblyInfoInputs.cache
+D:\ProjetosNET\NewBank\NewBank\obj\Debug\net5.0\NewBank.AssemblyInfo.cs
+D:\ProjetosNET\NewBank\NewBank\obj\Debug\net5.0\NewBank.csproj.CoreCompileInputs.cache
+D:\ProjetosNET\NewBank\NewBank\obj\Debug\net5.0\NewBank.dll
+D:\ProjetosNET\NewBank\NewBank\obj\Debug\net5.0\refint\NewBank.dll
+D:\ProjetosNET\NewBank\NewBank\obj\Debug\net5.0\NewBank.pdb
+D:\ProjetosNET\NewBank\NewBank\obj\Debug\net5.0\NewBank.genruntimeconfig.cache
+D:\ProjetosNET\NewBank\NewBank\obj\Debug\net5.0\ref\NewBank.dll
